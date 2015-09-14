@@ -1,0 +1,11 @@
+{
+  "name": "shortly",
+  "version": "0.0.1",
+  "dependencies": {
+    "bluebird": "^2.10.0",
+    "debug": "^2.2.0",
+    "express": "^4.13.3",
+    "randomstring": "^1.1.0",
+    "redis": "^1.0.0"
+  }
+}
